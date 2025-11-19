@@ -1,0 +1,6 @@
+# .gitignore for C#
+bin/
+obj/
+*.user
+*.suo
+*.vs/
